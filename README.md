@@ -1,1 +1,5 @@
-# 联通 - 老友专区特惠
+## use `degit`
+
+```zsh
+degit git@github.com:iivu/vue3-scraffold.git
+```
